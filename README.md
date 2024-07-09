@@ -1,6 +1,6 @@
 # MediExcellence
 
-![Hospital Management System](https://github.com/yatunyi15075/React_Hospital_Management_System/blob/master/frontend/src/assets/4.png)
+![Hospital Management System]
 
 MediExcellence represents a state-of-the-art Hospital Management System crafted using the robust MERN (MongoDB, Express.js, React, Node.js) stack. It encompasses three core components: Frontend, Backend, and Dashboard."
 
